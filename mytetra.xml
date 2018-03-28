@@ -16,11 +16,13 @@
     <node crypt="1" icon="" id="1522224101os736ez8m3" name="UkM1U0lNUAMisKZVRmdX+0dunomjsPbsYUZfpY/WGeVl7TeQ/Yz8VsC80p/zC41v"/>
    </node>
    <node crypt="1" icon="" id="1522224110zjsdt5d7bu" name="UkM1U0lNUANulFI7CDZYnN1gStboLSD1bMJPDGP4gG9sJAyG6anqYfaUuDeMZavI"/>
-   <node crypt="1" icon="" id="1522233865ia014wenp6" name="UkM1U0lNUAOi551dI7KSuxInSngvFeCQUXly+P6npIkTRLhcD+TxGqH9mUo0Rp8qSnrHG1pJuIM=">
-    <recordtable>
-     <record id="1522233893nede1sydq3" name="UkM1U0lNUAO00YDQd6y88JDlGn2H6sOMZa84HbuXrjJ75tRPGm/eCBbbRyAIroy3y2Zh1+JYu34YnZdA+J7x0Q==" author="" url="" tags="" ctime="20180328134453" dir="1522233893w28fagz0yb" file="text.html" crypt="1"/>
-    </recordtable>
-   </node>
+   <node crypt="1" icon="" id="1522234018boyuornct0" name="UkM1U0lNUANLXdgDnLFDz/de4h36LnCGEuKiJxodfdetHcoZvmqzOJPMhS3gEW/m"/>
+  </node>
+  <node crypt="" icon="" id="1522234062lffw4iseg4" name="Чеклисты">
+   <recordtable>
+    <record id="1522233893nede1sydq3" name="Соблазнение" author="" url="" tags="" ctime="20180328134742" dir="1522233893w28fagz0yb" file="text.html" crypt="0"/>
+    <record id="1522233927vyesk8wnhb" name="Сбор на тренировку" author="" url="" tags="" ctime="20180328134742" dir="1522233927npd8fqvn7m" file="text.html" crypt="0"/>
+   </recordtable>
   </node>
  </content>
 </root>
